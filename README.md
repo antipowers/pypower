@@ -1,4 +1,4 @@
-# SwimCloud Scraper
+# SwimSync Scraper
 
 A Python script that uses the Selenium web driver to scrape USA Swimming's individual times search tool for a swimmer's best times.
 
