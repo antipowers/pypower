@@ -33,6 +33,7 @@ from SwimCloudScraper import SwimCloudScraper
 with SwimCloudScraper() as scraper:
     swimmer_times = scraper.get_swimmer_times("Caeleb", "Dressel")
     print(swimmer_times)
+```
 
 ## License
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
