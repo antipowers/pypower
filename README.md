@@ -7,6 +7,17 @@ A Python script that uses the Selenium web driver to scrape USA Swimming's indiv
 * Python 3.x
 * Selenium for Python (`pip install selenium`)
 
+## Installation
+
+* To install the required packages, run the following command:
+
+* `pip install -r requirements.txt`
+
+* This will install all the packages listed in the requirements.txt file.
+
+* Note: It is recommended to create a new virtual environment for this project to avoid conflicts with other packages installed on your system. You can create a new virtual environment using venv or conda.
+
+
 ## Usage
 
 1. Clone the repository.
